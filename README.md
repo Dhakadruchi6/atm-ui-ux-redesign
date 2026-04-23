@@ -47,7 +47,7 @@ Traditional ATM interfaces are often complex, slow, and not user-friendly, espec
 ---
 
 ## 📱 Prototype
-👉 [View Figma Prototype](YOUR_FIGMA_LINK)
+👉 [View Figma Prototype](https://www.figma.com/proto/JcOmc5914nKEcHYlMIsFq6/ATM-interface?node-id=10-31&p=f&t=859vKXmZSbdlk704-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A31&show-proto-sidebar=1)
 
 ---
 
@@ -65,11 +65,6 @@ Traditional ATM interfaces are often complex, slow, and not user-friendly, espec
 - Improved accessibility
 - Faster interaction
 - Error prevention
-
----
-
-## 📸 Screenshots
-(Add your UI images here)
 
 ---
 
